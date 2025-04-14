@@ -67,14 +67,6 @@ venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
 
-### 4. Configure o arquivo .env
-
-Crie um `.env` com sua chave da API:
-
-```
-CURRENCY_API_KEY=SuaChaveAqui
-```
-
 ## Uso
 
 Execute o script principal:
